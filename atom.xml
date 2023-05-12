@@ -6,7 +6,7 @@
   <link href="https://l-hao-o.github.io/atom.xml" rel="self"/>
   
   <link href="https://l-hao-o.github.io/"/>
-  <updated>2023-05-09T12:29:04.354Z</updated>
+  <updated>2023-05-09T12:30:27.097Z</updated>
   <id>https://l-hao-o.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://l-hao-o.github.io/2023/05/09/text02/"/>
     <id>https://l-hao-o.github.io/2023/05/09/text02/</id>
     <published>2023-05-08T16:00:00.000Z</published>
-    <updated>2023-05-09T12:29:04.354Z</updated>
+    <updated>2023-05-09T12:30:27.097Z</updated>
     
     <content type="html"><![CDATA[<h1 id="注册和使用ChatGPT"><a href="#注册和使用ChatGPT" class="headerlink" title="注册和使用ChatGPT"></a><strong>注册和使用ChatGPT</strong></h1><h3 id="0，准备条件（重点！！！）"><a href="#0，准备条件（重点！！！）" class="headerlink" title="0，准备条件（重点！！！）"></a>0，准备条件（重点！！！）</h3><p>首先在操作下面步骤之前必须要能<strong>科学上网</strong>，如果有科学上网工具，直接忽视这一步骤（推荐用clash搭配购买的机场科学上网）</p><p>clash下载地址：<a href="https://github.com/Fndroid/clash_for_windows_pkg">clash</a></p><p>机场可以看这个网站： <a href="https://aijichang.com/4151/">2023 中国国内10大翻墙机场推荐 - 爱机场 </a></p><p><strong>注意</strong>：即使使用科学上网，查看 <code>ip</code>地址也可能显示在国内，以下是解决办法:</p><ol><li>一定挂<strong>全局</strong>模式 + 支持 <code>OpenAI</code> 的国家（目前中俄等国不支持，中国香港也不支持，推荐北美、日本，欧洲等国家）；</li><li>上面步骤完成后依然不行的话，就清空浏览器缓存然后重启浏览器或者电脑；或者直接新开一个<strong>无痕模式</strong>的窗口。</li></ol><h3 id="1、进入注册"><a href="#1、进入注册" class="headerlink" title="1、进入注册"></a>1、进入注册</h3><p>打开<strong>ChatGPT的官方网站</strong> <a href="https://link.juejin.cn/?target=https://chat.openai.com/">chat.openai.com</a> ，然后点击【Sign Up】进入下一步。</p><p>如果页面无法正常显示，需要更换其他的网络节点，或者清理下浏览器cookie再次尝试。</p><h3 id="2、邮箱注册"><a href="#2、邮箱注册" class="headerlink" title="2、邮箱注册"></a>2、邮箱注册</h3><p>注册方式为邮箱注册，可以用微软帐号或者谷歌帐号登录，微软账号或者谷歌账号好像不需要验证，国内或者其他邮箱地址都需要进行验证（比如QQ邮箱是需要验证的）。<strong>推荐使用谷歌邮箱</strong></p><h3 id="3、填写姓名信息"><a href="#3、填写姓名信息" class="headerlink" title="3、填写姓名信息"></a>3、填写姓名信息</h3><p>邮箱通过后，会提示你输入姓名，按照要求进行输入即可。如果显示该IP地址注册数量过多，则需要更换节点（更换节点时，无需对浏览器进行重启，刷新页面即可）。</p><h3 id="4、验证手机号（重点！！！）"><a href="#4、验证手机号（重点！！！）" class="headerlink" title="4、验证手机号（重点！！！）"></a>4、验证手机号（重点！！！）</h3><p>随后将会进入手机验证的环节，国内手机号不能注册，用下面这个平台</p><p><a href="https://sms-activate.org/">SMS-Activate是在线接受短信的虚拟号码服务</a></p><p>在这个平台注册一个账号，可以用邮箱注册，支持支付宝购买虚拟手机号</p><p>在这个平台界面找到OpenAI，点击选择购买里面的手机号</p><p>如果确认这个手机号可以使用，那么点击激活。激活后返回到ChatGPT的页面，填入对应的手机号码，页面会自动显示出收到的短信。</p><p><strong>注意：</strong>这里显示的号码是包含国家代码的。比如美国手机号+19784348561，这里显示为19784348561，你在网站上填写手机号时，需要去掉前面的 1 这个国别代码。另外在接收验证码时，建议使用低价的印尼等手机号，印度经常挤爆收不到；如果长时间没有收到验证码，可更换成其他区域尝试。</p><p>重点是：在手机验证页面，一定要注意选择正确的国家（注意国旗）！一定要注意选择正确的国家！一定要注意选择正确的国家！</p><p><strong>如有不明朗之处，请参考这篇文章</strong><a href="https://github.com/xiaoming2028/FreePAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89">ChatGPT注册教程（完整指南） · xiaoming2028/FreePAC Wiki (github.com)</a></p>]]></content>
     
